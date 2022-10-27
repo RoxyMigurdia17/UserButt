@@ -42,16 +42,16 @@ Easy way to get STRING_SESSION.
 ### or Run on your terminal
 
 ```
-wget https://raw.githubusercontent.com/mrmissx/userbutt/sql-extended/terminal_getstring.sh && bash terminal_getstring.sh
+wget https://raw.githubusercontent.com/RoxyMigurdia17/userbutt/sql-extended/terminal_getstring.sh && bash terminal_getstring.sh
 ```
 
 ## How To Host
 
 Deploy to Heroku with button
 
-<p><a href="https://heroku.com/deploy?template=https://github.com/mrmissx/UserButt/tree/sql-extended"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" target="_blank" /></a></p>
+<p><a href="https://heroku.com/deploy?template=https://github.com/RoxyMigurdia17/UserButt/tree/sql-extended"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" target="_blank" /></a></p>
 
-[Deploy to heroku with github actions](https://github.com/mrmissx/UserButt/blob/sql-extended/helper.md)
+[Deploy to heroku with github actions](https://github.com/RoxyMigurdia17/UserButt/blob/sql-extended/helper.md)
 
 For further guide you can head to [Groups and Support](https://github.com/mrmissx/UserButt#Groups-and-support) or read this [guide](https://telegra.ph/Host-a-Telegram-Userbot-05-07)
 
@@ -70,7 +70,9 @@ Join [Userbotindo Support Group](https://t.me/userbotindo) for discussion, bug r
 * [MoveAngel](https://github.com/MoveAngel) - One4uBot
 * [GengKapak](https://github.com/GengKapak) - DCLXVI
 
-And [others](https://github.com/mrmissx/UserButt/graphs/contributors) that help to make this userbot awesome.
+* [AnuNya](https://github.com/RoxyMigurdia17) - AnuNya
+
+And [others](https://github.com/RoxyMigurdia17/UserButt/graphs/contributors) that help to make this userbot awesome.
 
 ## License
 
